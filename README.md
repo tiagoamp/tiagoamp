@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm tiagoamp
+[![twitter](https://img.shields.io/badge/-@tiagoamp__-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/tiagoamp_)  
+[![linkedin](https://img.shields.io/badge/-@tiagoamp-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/tiagoamp/)
 
 <!--
 **tiagoamp/tiagoamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
