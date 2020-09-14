@@ -4,7 +4,7 @@
 ```javascript
 const tiagoamp = {
     code: ["java", "javascript", "kotlin", "go lang"],
-    askMeAbout: ["tech", "web dev", "competitive programming", "code design"],
+    askMeAbout: ["tech", "web dev", "code design", "code kata", "competitive programming"],
     technologies: ["spring", "jersey", "nodejs", "express", "reactjs", "oracle db", "mongodb"],      
     architecture: ["rest api", "webservices", "microservices", "web applications", "single page applications"]
 };
